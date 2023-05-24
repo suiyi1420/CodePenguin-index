@@ -16024,6 +16024,7 @@ input:focus {
 .module-navbar[data-v-451e1bb8] {
   width: 100%;
   background-color: #fff;
+  margin-bottom: 5px;
 }
 
 .module-navbar .navbar-area[data-v-451e1bb8] {
@@ -16382,18 +16383,22 @@ input:focus {
 .homepage_second_piece
   .reason_programming_plate
   .programming_content_list[data-v-17794c6e] {
-  width: 450px;
-  height: 476px;
-  margin: 0 75px;
+  width: 260px;
+  height: 315px;
+  margin: 0 20px;
   float: left;
+  border-radius: 8px;
+  overflow: hidden;
+  padding-bottom: 10px;
+  box-shadow: 0px 2px 10px 0px #ababab;
 }
 
 .homepage_second_piece
   .reason_programming_plate
   .programming_content_list
   .programming_list_img[data-v-17794c6e] {
-  width: 360px;
-  height: 240px;
+  width: 100%;
+  /* height: 240px; */
   display: block;
   margin: 0 auto 17px;
 }
@@ -16403,7 +16408,7 @@ input:focus {
   .programming_content_list
   .programming_list_title[data-v-17794c6e] {
   color: #0189f4;
-  font: normal 30px 微软雅黑;
+  font: normal 18px 微软雅黑;
   font-weight: bolder;
   text-align: center;
   margin-bottom: 17px;
@@ -16414,10 +16419,11 @@ input:focus {
   .programming_content_list
   .programming_list_text[data-v-17794c6e] {
   color: #929292;
-  font: normal 18px 微软雅黑;
+  font: normal 14px 微软雅黑;
   margin: 0;
   line-height: 24px;
   text-align: center;
+  padding: 0 20px;
 }
 
 .homepage_second_piece
@@ -16592,7 +16598,7 @@ input:focus {
   .programming_primary_top[data-v-17794c6e] {
   width: 100%;
   height: 186px;
-  background: url("./statics/images/fe61de2.png") no-repeat 50%;
+  background: url("./statics/images/f8a6e97.jpg") no-repeat 50%;
   background-size: 100% auto;
 }
 
@@ -16684,9 +16690,9 @@ input:focus {
   font-size: 14px;
   font-family: 微软雅黑;
   color: #999;
-  margin: 16px auto 28px;
+  margin: 28px auto 28px;
   line-height: 25px;
-  height: 118px;
+  /* height: 118px; */
 }
 
 .homepage_fourth_piece
@@ -16745,7 +16751,7 @@ input:focus {
   .feature_courses_content
   .list_arduino
   .programming_primary_top[data-v-17794c6e] {
-  background: url("./statics/images/f8a6e97.png") no-repeat 50%;
+  background: url("./statics/images/fe61de2.jpg") no-repeat 50%;
 }
 
 .homepage_fourth_piece
@@ -16771,7 +16777,7 @@ input:focus {
   .feature_courses_content
   .list_python
   .programming_primary_top[data-v-17794c6e] {
-  background: url("./statics/images/54d2368.png") no-repeat 50%;
+  background: url("./statics/images/54d2368.jpg") no-repeat 50%;
 }
 
 .homepage_fourth_piece
@@ -16797,7 +16803,7 @@ input:focus {
   .feature_courses_content
   .list_noip
   .programming_primary_top[data-v-17794c6e] {
-  background: url("./statics/images/8df0637.png") no-repeat 50%;
+  background: url("./statics/images/8df0637.jpg") no-repeat 50%;
 }
 
 .homepage_fourth_piece
@@ -17776,8 +17782,8 @@ input:focus {
 .footer_bottom[data-v-1144fda0] {
   width: 100%;
   /* height: 493px; */
-  padding-top: 48px;
-  padding-bottom: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background: #3f414a;
 }
 

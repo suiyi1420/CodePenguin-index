@@ -9,7 +9,7 @@ const Header = () => {
     "/teachingModel": "课程特色",
     "/about": "关于我们",
   };
-  const [menuHtml, setMenuHtml] = useState(null);
+
   useEffect(() => {
     const url = window.location.href;
     const urlTags = url.split("/");
@@ -55,16 +55,25 @@ const Header = () => {
           </a>
           <ul className="navbar" data-v-451e1bb8="">
             {renderMenu(tag)}
-            <a
+            {/* <a
               href="/admin"
               target="_blank"
               className="stu_login"
               data-v-451e1bb8=""
             >
               学员登录
-            </a>
+            </a> */}
           </ul>
           <div className="right-info" data-v-451e1bb8="">
+            <a
+              href="/admin"
+              target="_blank"
+              className="stu_login"
+              data-v-451e1bb8=""
+              style={{ marginTop: 0, lineHeight: "unset" }}
+            >
+              学员登录
+            </a>
             {/* <i
               className="fa-phone"
               style="color:#ff0229;"

@@ -127,10 +127,10 @@ const HomePage = () => {
       >
         <div data-v-17794c6e="" className="title_every_plate">
           <p data-v-17794c6e="" className="english_title_text">
-            Why Choose Coduck
+            Why Choose CodePenguin
           </p>
           <h2 data-v-17794c6e="" className="chinese_title_text">
-            为什么选择可达鸭编程？
+            为什么选择编程鹅？
           </h2>
           <p
             data-v-17794c6e=""
@@ -147,7 +147,7 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="plate_content_list">
               <img
                 data-v-17794c6e=""
-                src={require("../../statics/images/88afa8b.png")}
+                src={require("../../statics/images/home_5.png")}
                 className="exhibition_img"
               />
               <div data-v-17794c6e="" className="list_text_desc">
@@ -167,7 +167,7 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="plate_content_list">
               <img
                 data-v-17794c6e=""
-                src={require("../../statics/images/95cf913.png")}
+                src={require("../../statics/images/home_6.png")}
                 className="exhibition_img"
               />
               <div data-v-17794c6e="" className="list_text_desc">
@@ -184,7 +184,7 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="plate_content_list">
               <img
                 data-v-17794c6e=""
-                src={require("../../statics/images/a0c8864.png")}
+                src={require("../../statics/images/home_7.png")}
                 className="exhibition_img"
               />
               <div data-v-17794c6e="" className="list_text_desc">
@@ -201,7 +201,7 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="plate_content_list">
               <img
                 data-v-17794c6e=""
-                src={require("../../statics/images/c389bd7.png")}
+                src={require("../../statics/images/home_8.png")}
                 className="exhibition_img"
               />
               <div data-v-17794c6e="" className="list_text_desc">
@@ -221,7 +221,7 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="plate_content_list">
               <img
                 data-v-17794c6e=""
-                src={require("../../statics/images/f09699e.png")}
+                src={require("../../statics/images/home_9.png")}
                 className="exhibition_img"
               />
               <div data-v-17794c6e="" className="list_text_desc">
@@ -238,7 +238,7 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="plate_content_list">
               <img
                 data-v-17794c6e=""
-                src={require("../../statics/images/515a322.png")}
+                src={require("../../statics/images/home_10.png")}
                 className="exhibition_img"
               />
               <div data-v-17794c6e="" className="list_text_desc">
@@ -280,19 +280,17 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="programming_primary_top">
               <div data-v-17794c6e="" className="primary_top_content">
                 <p data-v-17794c6e="" className="primary_top_title">
-                  二年级以上
+                  一年级以上
                 </p>
               </div>
             </div>
             <div data-v-17794c6e="" className="programming_primary_bottom">
               <h2 data-v-17794c6e="" className="primary_bottom_title">
-                Scratch+Arduino
+                乐高机器人搭建
               </h2>
-              <h3 data-v-17794c6e="" className="primary_bottom_title2">
-                图形化+机器人编程
-              </h3>
+
               <p data-v-17794c6e="" className="primary_bottom_text">
-                借助Scratch的直观和趣味性，结合Arduino智能硬件，将数学、科学、艺术等知识融入到编程思想中，体会运用科学知识、多方面创意来解决问题的方法，打造独一无二的智能机器人。
+                课程采用PBL项目式教学方式，结合乐高机器人考级要求和少儿能力发展特色需求，旨在提升孩子听说能力、阅读能力、写作能力、语言能力与动手能力。并通过丰富的课堂元素，全面开发孩子的听觉、视觉、感觉、触觉等感官能力，激发想象力，提升创造力。
               </p>
             </div>
           </div>
@@ -303,23 +301,21 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="programming_primary_top">
               <div data-v-17794c6e="" className="primary_top_content">
                 <p data-v-17794c6e="" className="primary_top_title">
-                  四年级以上
+                  二年级以上
                 </p>
               </div>
             </div>
             <div data-v-17794c6e="" className="programming_primary_bottom">
               <h2 data-v-17794c6e="" className="primary_bottom_title">
-                趣味C语言+Python
+                Scratch图形编程
               </h2>
-              <h3 data-v-17794c6e="" className="primary_bottom_title2">
-                图形化+代码编程
-              </h3>
+
               <p
                 data-v-17794c6e=""
                 className="primary_bottom_text"
                 style={{ letterspacing: "0px" }}
               >
-                采用图形化+代码对照的编程模式，使用趣味C语言和人工智能编程语言Python，培养系统工程的思维模式，教授代码类编程技巧，奠定良好的代码编程基础，完成图形化编程到代码类编程的过渡。
+                借助Scratch的直观和趣味性，让编程像搭积木一样生动有趣。每一句逻辑命令都是一块积木，在进行编写程序的过程中，就像是在玩积木一样堆建起属于自己的程序城堡，没有枯燥的语言和记忆要求。快速接触编程思想，提升编程思维能力，激发学习编程的兴趣和信心。{" "}
                 <br data-v-17794c6e="" />
               </p>
             </div>
@@ -331,23 +327,21 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="programming_primary_top">
               <div data-v-17794c6e="" className="primary_top_content">
                 <p data-v-17794c6e="" className="primary_top_title">
-                  五年级以上
+                  四年级以上
                 </p>
               </div>
             </div>
             <div data-v-17794c6e="" className="programming_primary_bottom">
               <h2 data-v-17794c6e="" className="primary_bottom_title">
-                C++高级语言
+                Arduino硬件编程
               </h2>
-              <h3 data-v-17794c6e="" className="primary_bottom_title2">
-                代码编程
-              </h3>
+
               <p
                 data-v-17794c6e=""
                 className="primary_bottom_text"
                 style={{ letterspacing: "0px" }}
               >
-                系统性学习C++语言的语法指令和基本算法知识，掌握基本程序设计的模式与方法，学会运用C++语言编写高效程序，基于C++语言，培养数学计算能力、逻辑推理能力以及分析解决问题能力。
+                充分结合前面课程培养的动手能力以及编程能力，利用Arduino智能主控板，搭配各种传感器硬件，将数学、科学、艺术等知识融入到编程思想中，体会运用科学知识、多方面创意来解决问题的方法，打造独一无二的智能机器人。{" "}
                 <br data-v-17794c6e="" />
                 &nbsp;
               </p>
@@ -357,19 +351,17 @@ const HomePage = () => {
             <div data-v-17794c6e="" className="programming_primary_top">
               <div data-v-17794c6e="" className="primary_top_content">
                 <p data-v-17794c6e="" className="primary_top_title">
-                  五年级以上
+                  六年级以上
                 </p>
               </div>
             </div>
             <div data-v-17794c6e="" className="programming_primary_bottom">
               <h2 data-v-17794c6e="" className="primary_bottom_title">
-                NOIP信奥赛
+                代码算法编程
               </h2>
-              <h3 data-v-17794c6e="" className="primary_bottom_title2">
-                算法编程
-              </h3>
+              <h3 data-v-17794c6e="" className="primary_bottom_title2"></h3>
               <p data-v-17794c6e="" className="primary_bottom_text">
-                针对NOIP（全国青少年信息学奥林匹克竞赛）考试大纲，对NOIP知识点进行深入剖析和讲解，学习并掌握NOIP比赛中涉及的复杂数据结构、高效算法以及数学思想等知识，助力信息学奥赛。
+                以信息特长生为目标，使用趣味C语言和人工智能编程语言Python，培养系统工程的思维模式，同时还会对NOIP知识点进行深入剖析和讲解，学习并掌握NOIP比赛中涉及的复杂数据结构、高效算法以及数学思想等知识，助力信息学奥赛。
                 <br data-v-17794c6e="" />
                 &nbsp;
               </p>

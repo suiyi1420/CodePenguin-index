@@ -130,7 +130,7 @@ const Course = () => {
                   style={{ marginTop: "20px", marginBottom: "20px" }}
                 ></p>
                 <p data-v-150d6a66="" className="times_bottom_text">
-                  45分钟高效课堂
+                  90分钟高效课堂
                 </p>
               </div>
               <div data-v-150d6a66="" className="pattern_Process_content">
@@ -148,14 +148,14 @@ const Course = () => {
                     </span>
                   </p>
                   <p data-v-150d6a66="" className="right_text_title">
-                    项目讨论：15分钟
+                    项目讨论：20分钟
                     <br data-v-150d6a66="" />
                     <span data-v-150d6a66="" className="right_text_synopsis">
                       针对学员提交的作品，每位同学做分享、交流，解决bug
                     </span>
                   </p>
                   <p data-v-150d6a66="" className="right_text_title">
-                    互动教学：20分钟
+                    互动教学：60分钟
                     <br data-v-150d6a66="" />
                     <span data-v-150d6a66="" className="right_text_synopsis">
                       介绍本节课知识点，对重难点以提问方式穿插讲解，并对项目进行拓展
