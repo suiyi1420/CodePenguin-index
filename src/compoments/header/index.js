@@ -70,7 +70,7 @@ const Header = () => {
               target="_blank"
               className="stu_login"
               data-v-451e1bb8=""
-              style={{ marginTop: 0, lineHeight: "unset" }}
+              style={{ marginTop: 0, lineHeight: "normal" }}
             >
               学员登录
             </a>
